@@ -1,18 +1,33 @@
-# SA:MP Mobile Client 2.10 (x64) for GTA: San Andreas
+# samp-ios-project
+Project SA-MP client for GTA San Andreas iOS. 
+# SA-MP iOS Project
 
-# ᐳ Description
-> * Arch: `arm64-v8a`, `armeabi-v7a`
-> * Type: `Modified SA:MP client` 
-> * Security: `https://github.com/ac3ss0r/obfusheader.h` 
-> * Status: `Supported`
+Port of SA-MP multiplayer client for GTA San Andreas iOS.
 
-# ᐳ Features
-> * Support `arm64` and `arm32`
-> * Built-in OpenGL reflections (cars)
-> * WaterShader
-> * custom SkyBox
-> * disabled `CCorona` (optimization) 
-> * Added mini-map icons 
-> * Improved multi-touch 
-> * Support for the kick button 
-> * Compatibility with SA:MP 0.3.7
+## Goals
+
+- Connect to SA-MP servers
+- Ingame chat
+- Multiplayer sync
+- GUI
+- iPhone support
+# SA-MP iOS Project
+
+Порт SA-MP клиента на iOS.
+
+## Цель проекта
+Перенос Android версии SA-MP клиента на iPhone/iPad.
+
+## Что планируется
+- запуск клиента
+- подключение к серверу
+- touch управление
+- интерфейс
+- voice chat
+- оптимизация
+
+## Статус
+Начальная стадия разработки.
+
+## Автор
+slavpoznyakow486/sourseplus
